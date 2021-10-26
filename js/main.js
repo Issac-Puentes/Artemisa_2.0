@@ -118,8 +118,7 @@ sr.reveal(`.about__data,
 sr.reveal(`.about__img-overlay, 
            .video__content,
            .subscribe__form,
-           .contact__button,
-           .button`,{
+           .contact__button`,{
     origin: 'right',
     interval: 200,
 })
