@@ -271,6 +271,14 @@ input {
   
 }
 
+.section__title {
+  text-align: center;
+  font-size: var(--h1-font-size);
+  color: var(--h2-font-size);
+  margin-bottom: var(--mb-1-5);
+
+}
+
 .section-subtitle{
   display: block;
   color: var(--first-color);
